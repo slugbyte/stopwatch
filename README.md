@@ -10,3 +10,4 @@ stopwatch started
 done in 4.359 seconds
 ```
 
+![](./data/img/tick_tock.png)
